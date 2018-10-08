@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bitmapfactorydemo" />
             <option value="$PROJECT_DIR$/imagereviewdemo" />
             <option value="$PROJECT_DIR$/lianyibuttondemo" />
             <option value="$PROJECT_DIR$/recyclerviewtabledemo" />
