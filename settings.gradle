@@ -1,1 +1,1 @@
-include ':app', ':videodemo', ':lianyibuttondemo', ':recyclerviewtabledemo', ':imagereviewdemo', ':bitmapfactorydemo', ':systemvediodemo', ':vedioviewdemo'
+include ':app', ':videodemo', ':lianyibuttondemo', ':recyclerviewtabledemo', ':imagereviewdemo', ':bitmapfactorydemo', ':systemvediodemo', ':vedioviewdemo', ':surfaceviewmediaplaydemo'
