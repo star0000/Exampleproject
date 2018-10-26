@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- 根之前不同的是,要显示的是背景颜色,不在是图片 -->
+    <item android:state_checked="true" android:drawable="@color/radio_select"></item>
+    <item android:state_checked="false" android:drawable="@color/radio_no"></item>
+    <item  android:drawable="@color/radio_no"></item>
+    
+
+</selector>
